@@ -9,7 +9,7 @@
 ## BTS
 Kim Namjoon 
 Kim Soekjin
-
+Min Yoongi
 
 ## How to Contribute
 
