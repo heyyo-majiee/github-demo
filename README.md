@@ -10,6 +10,7 @@
 Kim Namjoon 
 Kim Soekjin
 Min Yoongi
+Jung Hosoek
 
 ## How to Contribute
 
