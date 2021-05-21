@@ -8,6 +8,8 @@
 
 ## BTS
 Kim Namjoon 
+Kim Soekjin
+
 
 ## How to Contribute
 
